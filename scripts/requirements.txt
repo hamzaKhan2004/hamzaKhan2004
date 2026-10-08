@@ -1,0 +1,9 @@
+Pillow
+numpy
+opencv-python
+rembg
+
+requests
+beautifulsoup4
+pillow
+numpy

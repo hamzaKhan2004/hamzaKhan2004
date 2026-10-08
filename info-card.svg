@@ -1,0 +1,368 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="520"
+height="520"
+viewBox="0 0 520 520">
+
+<style>
+
+.card {
+    fill: #0d1117;
+}
+
+.border {
+    fill: none;
+
+    stroke: #30363d;
+
+    stroke-width: 1;
+}
+
+.line {
+    font-family: "DejaVu Sans Mono","Courier New",Consolas,monospace;
+
+    opacity: 0;
+
+    transform:
+        translateX(-10px);
+
+    animation:
+        reveal
+        0.4s
+        ease-out
+        forwards;
+}
+
+@keyframes reveal {
+
+    0% {
+        opacity: 0;
+
+        transform:
+            translateX(-10px);
+    }
+
+    100% {
+        opacity: 1;
+
+        transform:
+            translateX(0);
+    }
+
+}
+
+</style>
+
+
+<rect
+    class="card"
+    x="0"
+    y="0"
+    width="520"
+    height="520"
+    rx="14"
+/>
+
+<rect
+    class="border"
+    x="0.5"
+    y="0.5"
+    width="519"
+    height="519"
+    rx="14"
+/>
+
+
+<text
+    x="24"
+    y="30"
+    class="line"
+    style="animation-delay:0.00s"
+    font-size="11px"
+    font-weight="400"
+    fill="#8b949e"
+>
+    ●  ●  ●
+</text>
+
+
+<text
+    x="24"
+    y="62"
+    class="line"
+    style="animation-delay:0.12s"
+    font-size="16px"
+    font-weight="600"
+    fill="#3fb950"
+>
+    hamzaKhan2004 ~ $ whoami
+</text>
+
+
+<text
+    x="24"
+    y="100"
+    class="line"
+    style="animation-delay:0.24s"
+    font-size="24px"
+    font-weight="700"
+    fill="#c9d1d9"
+>
+    Hamza Khan
+</text>
+
+
+<text
+    x="24"
+    y="124"
+    class="line"
+    style="animation-delay:0.34s"
+    font-size="13px"
+    font-weight="400"
+    fill="#8b949e"
+>
+    Full Stack Developer
+</text>
+
+
+<line
+    x1="24"
+    y1="145"
+    x2="496"
+    y2="145"
+    stroke="#30363d"
+    stroke-width="1"
+/>
+
+
+<text
+    x="24"
+    y="175"
+    class="line"
+    style="animation-delay:0.48s"
+    font-size="12px"
+    font-weight="600"
+    fill="#3fb950"
+>
+    &gt; role
+</text>
+
+
+<text
+    x="125"
+    y="175"
+    class="line"
+    style="animation-delay:0.51s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    Full Stack Developer
+</text>
+
+
+<text
+    x="24"
+    y="207"
+    class="line"
+    style="animation-delay:0.58s"
+    font-size="12px"
+    font-weight="600"
+    fill="#58a6ff"
+>
+    &gt; stack
+</text>
+
+
+<text
+    x="125"
+    y="207"
+    class="line"
+    style="animation-delay:0.61s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    MERN / TypeScript
+</text>
+
+
+<text
+    x="24"
+    y="239"
+    class="line"
+    style="animation-delay:0.68s"
+    font-size="12px"
+    font-weight="600"
+    fill="#bc8cff"
+>
+    &gt; ai
+</text>
+
+
+<text
+    x="125"
+    y="239"
+    class="line"
+    style="animation-delay:0.71s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    RAG / LangGraph / Gemini
+</text>
+
+
+<text
+    x="24"
+    y="271"
+    class="line"
+    style="animation-delay:0.78s"
+    font-size="12px"
+    font-weight="600"
+    fill="#58a6ff"
+>
+    &gt; backend
+</text>
+
+
+<text
+    x="125"
+    y="271"
+    class="line"
+    style="animation-delay:0.81s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    Node.js / Express / MongoDB
+</text>
+
+
+<text
+    x="24"
+    y="303"
+    class="line"
+    style="animation-delay:0.88s"
+    font-size="12px"
+    font-weight="600"
+    fill="#3fb950"
+>
+    &gt; cloud
+</text>
+
+
+<text
+    x="125"
+    y="303"
+    class="line"
+    style="animation-delay:0.91s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    AWS / Docker
+</text>
+
+
+<text
+    x="24"
+    y="340"
+    class="line"
+    style="animation-delay:1.13s"
+    font-size="13px"
+    font-weight="600"
+    fill="#3fb950"
+>
+    projects
+</text>
+
+
+<text
+    x="24"
+    y="368"
+    class="line"
+    style="animation-delay:1.23s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    ├─ Nova Search
+</text>
+
+
+<text
+    x="24"
+    y="393"
+    class="line"
+    style="animation-delay:1.33s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    ├─ CodeHub
+</text>
+
+
+<text
+    x="24"
+    y="418"
+    class="line"
+    style="animation-delay:1.43s"
+    font-size="12px"
+    font-weight="400"
+    fill="#c9d1d9"
+>
+    ├─ React-Dooms
+</text>
+
+
+<line
+    x1="24"
+    y1="448"
+    x2="496"
+    y2="448"
+    stroke="#30363d"
+    stroke-width="1"
+/>
+
+
+<text
+    x="24"
+    y="475"
+    class="line"
+    style="animation-delay:1.55s"
+    font-size="11px"
+    font-weight="600"
+    fill="#3fb950"
+>
+    status:
+</text>
+
+
+<text
+    x="90"
+    y="475"
+    class="line"
+    style="animation-delay:1.60s"
+    font-size="11px"
+    font-weight="400"
+    fill="#8b949e"
+>
+    building things that search.
+</text>
+
+
+<text
+    x="24"
+    y="500"
+    class="line"
+    style="animation-delay:1.70s"
+    font-size="11px"
+    font-weight="400"
+    fill="#3fb950"
+>
+    hamza@github ~ $ _
+</text>
+
+</svg>
