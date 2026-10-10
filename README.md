@@ -1,11 +1,7 @@
 # Hamza Akil Khan
 
 **Full-Stack Developer &bull; MERN Stack &bull; AI-Powered Applications**  
-Mumbai, India &nbsp;&bull;&nbsp; [LinkedIn](https://www.linkedin.com/in/hamza-khan-47a604347) &nbsp;&bull;&nbsp; [GitHub Repositories](https://github.com/hamzaKhan2004?tab=repositories) &nbsp;&bull;&nbsp; [khanhamzatz@gmail.com](mailto:khanhamzatz@gmail.com)
-
-<p align="left">
-  <img src="./chat-intro.svg" alt="Hi, I'm Hamza Khan. I build full-stack applications and AI-powered systems. Currently exploring scalable backends and AI engineering." width="100%" />
-</p>
+Mumbai, India &nbsp;&bull;&nbsp; [Portfolio](https://portfolio-z9dz.onrender.com/) &nbsp;&bull;&nbsp; [LinkedIn](https://www.linkedin.com/in/hamza-khan-47a604347) &nbsp;&bull;&nbsp; [LeetCode](https://leetcode.com/u/hamzaKhan84/) &nbsp;&bull;&nbsp; [khanhamzatz@gmail.com](mailto:khanhamzatz@gmail.com)
 
 ## About Me
 
@@ -33,12 +29,6 @@ GitHub-inspired code collaboration and version control platform.
 - **Technologies:** React, Node.js, Express, AWS S3, AWS Amplify, Yargs, REST APIs
 - **Links:** [Live Demo](https://main.d31x320hv8k13m.amplifyapp.com/) &bull; [Repository](https://github.com/hamzaKhan2004/CodeHub)
 
-### 3. React Dooms
-Lightweight React-like UI framework built from scratch using TypeScript and object-oriented programming.
-- **Highlights:** Custom virtual component architecture, reactive state management, lifecycle handling, DOM event delegation, and reconciliation; includes an Avengers-themed countdown demo application.
-- **Technologies:** TypeScript, OOP Architecture, Virtual DOM Reconciliation, State Management, Esbuild
-- **Links:** [Repository](https://github.com/hamzaKhan2004/React-Dooms)
-
 ## Achievements &amp; Education
 
 - **Second Prize &mdash; Technical Paper Presentation**, Viva Institute of Technology
@@ -50,4 +40,5 @@ Lightweight React-like UI framework built from scratch using TypeScript and obje
 <div align="center">
   <sub>"Building useful applications, exploring new technologies, and learning by shipping."</sub>
 </div>
+
 
